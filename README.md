@@ -1,4 +1,4 @@
-**README: Setting Up Kafka for Your Personal Project on WIndows OS**
+**README: Setting Up Kafka on Windows OS**
 
 ### Installation Steps
 
